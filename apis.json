@@ -1,0 +1,70 @@
+{
+    "name": "YellowAPI",
+    "description": "ActiveBuilding is a RealPage company",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/301-yellowapi.jpg",
+    "tags": [
+        "accounts",
+        "have api",
+        "projects",
+        "properties"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/yellowapi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "YellowAPI",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/301-yellowapi.jpg",
+            "humanURL": "http:\/\/developer.activebuilding.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/yellowapi-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/activebuilding.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/activebuilding"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/activebuilding"
+        },
+        {
+            "type": "Email",
+            "url": "support@activebuilding.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@activebuilding.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ActiveBuilding"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/yellowapi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ActiveBuilding"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.activebuilding.com\/"
+        }
+    ]
+}
